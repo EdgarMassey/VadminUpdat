@@ -6,6 +6,7 @@ Module Module1
     Private Filename As String
     Private logPath As String
     Sub Main()
+        Dim version As String = "20251216a"
         ' ONE log path only (Temp is safest)
         logPath = Path.Combine(Path.GetTempPath(), "VadminUpdater.log")
         sokvag = AppDomain.CurrentDomain.BaseDirectory
