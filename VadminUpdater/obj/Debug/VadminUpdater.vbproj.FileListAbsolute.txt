@@ -1,0 +1,11 @@
+C:\Github\VadminUpdat\VadminUpdater\bin\Debug\VadminUpdater.exe.config
+C:\Github\VadminUpdat\VadminUpdater\bin\Debug\VadminUpdater.exe
+C:\Github\VadminUpdat\VadminUpdater\bin\Debug\VadminUpdater.pdb
+C:\Github\VadminUpdat\VadminUpdater\bin\Debug\VadminUpdater.xml
+C:\Github\VadminUpdat\VadminUpdater\obj\Debug\VadminUpdater.vbproj.AssemblyReference.cache
+C:\Github\VadminUpdat\VadminUpdater\obj\Debug\VadminUpdater.Resources.resources
+C:\Github\VadminUpdat\VadminUpdater\obj\Debug\VadminUpdater.vbproj.GenerateResource.cache
+C:\Github\VadminUpdat\VadminUpdater\obj\Debug\VadminUpdater.vbproj.CoreCompileInputs.cache
+C:\Github\VadminUpdat\VadminUpdater\obj\Debug\VadminUpdater.exe
+C:\Github\VadminUpdat\VadminUpdater\obj\Debug\VadminUpdater.xml
+C:\Github\VadminUpdat\VadminUpdater\obj\Debug\VadminUpdater.pdb

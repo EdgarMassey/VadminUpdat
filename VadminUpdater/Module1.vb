@@ -36,10 +36,10 @@ Module Module1
 
             File.Move(tempExe, targetExe)
             Process.Start(targetExe)
-            File.WriteAllText(Path.Combine(sokvag, "update.ok"), DateTime.Now.ToString("s"))
+            File.WriteAllText(Path.Combine(sokvag, "UpdateStatus"), "Success")
             Environment.ExitCode = 0
         Catch ex As Exception
-            File.WriteAllText(Path.Combine(sokvag, "update.failed"), DateTime.Now.ToString("s"))
+            File.WriteAllText(Path.Combine(sokvag, "UpdateStatus"), "Failure")
             Environment.ExitCode = 1
         End Try
 
